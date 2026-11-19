@@ -1,0 +1,1 @@
+pyTelegramBotAPI>=4.20.0\nqrcode[pil]>=7.4.2\n
